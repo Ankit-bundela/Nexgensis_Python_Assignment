@@ -27,7 +27,7 @@ For each package, the system:
 ## Project Structure
 
 ```text
-assigment/
+Nexgensis_Python_Assignment/
 │
 ├── base_case.json
 ├── DeliveryTestCases/
