@@ -1,0 +1,82 @@
+{
+    "warehouses": [
+        {
+            "id": "W1",
+            "location": [11, 35]
+        },
+        {
+            "id": "W2",
+            "location": [14, 40]
+        },
+        {
+            "id": "W3",
+            "location": [75, 54]
+        }
+    ],
+    "agents": [
+        {
+            "id": "A1",
+            "location": [69, 36]
+        },
+        {
+            "id": "A2",
+            "location": [64, 71]
+        },
+        {
+            "id": "A3",
+            "location": [97, 58]
+        }
+    ],
+    "packages": [
+        {
+            "id": "P1",
+            "warehouse_id": "W2",
+            "destination": [22, 50]
+        },
+        {
+            "id": "P2",
+            "warehouse_id": "W2",
+            "destination": [23, 39]
+        },
+        {
+            "id": "P3",
+            "warehouse_id": "W1",
+            "destination": [13, 44]
+        },
+        {
+            "id": "P4",
+            "warehouse_id": "W1",
+            "destination": [12, 27]
+        },
+        {
+            "id": "P5",
+            "warehouse_id": "W3",
+            "destination": [83, 63]
+        },
+        {
+            "id": "P6",
+            "warehouse_id": "W1",
+            "destination": [17, 42]
+        },
+        {
+            "id": "P7",
+            "warehouse_id": "W3",
+            "destination": [69, 61]
+        },
+        {
+            "id": "P8",
+            "warehouse_id": "W2",
+            "destination": [4, 49]
+        },
+        {
+            "id": "P9",
+            "warehouse_id": "W1",
+            "destination": [10, 30]
+        },
+        {
+            "id": "P10",
+            "warehouse_id": "W3",
+            "destination": [79, 60]
+        }
+    ]
+}

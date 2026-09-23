@@ -1,0 +1,99 @@
+{
+    "warehouses": [
+        {
+            "id": "W1",
+            "location": [89, 16]
+        },
+        {
+            "id": "W2",
+            "location": [48, 43]
+        },
+        {
+            "id": "W3",
+            "location": [68, 31]
+        },
+        {
+            "id": "W4",
+            "location": [58, 39]
+        },
+        {
+            "id": "W5",
+            "location": [16, 51]
+        }
+    ],
+    "agents": [
+        {
+            "id": "A1",
+            "location": [27, 58]
+        },
+        {
+            "id": "A2",
+            "location": [47, 42]
+        },
+        {
+            "id": "A3",
+            "location": [57, 62]
+        },
+        {
+            "id": "A4",
+            "location": [84, 87]
+        }
+    ],
+    "packages": [
+        {
+            "id": "P1",
+            "warehouse_id": "W5",
+            "destination": [26, 58]
+        },
+        {
+            "id": "P2",
+            "warehouse_id": "W2",
+            "destination": [58, 45]
+        },
+        {
+            "id": "P3",
+            "warehouse_id": "W1",
+            "destination": [96, 21]
+        },
+        {
+            "id": "P4",
+            "warehouse_id": "W1",
+            "destination": [88, 21]
+        },
+        {
+            "id": "P5",
+            "warehouse_id": "W4",
+            "destination": [56, 34]
+        },
+        {
+            "id": "P6",
+            "warehouse_id": "W2",
+            "destination": [49, 40]
+        },
+        {
+            "id": "P7",
+            "warehouse_id": "W4",
+            "destination": [60, 45]
+        },
+        {
+            "id": "P8",
+            "warehouse_id": "W2",
+            "destination": [39, 42]
+        },
+        {
+            "id": "P9",
+            "warehouse_id": "W1",
+            "destination": [91, 11]
+        },
+        {
+            "id": "P10",
+            "warehouse_id": "W4",
+            "destination": [67, 48]
+        },
+        {
+            "id": "P11",
+            "warehouse_id": "W1",
+            "destination": [80, 14]
+        }
+    ]
+}
